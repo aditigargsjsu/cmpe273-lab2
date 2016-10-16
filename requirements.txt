@@ -1,0 +1,6 @@
+mysql-python
+flask_sqlalchemy
+sqlalchemy
+SQLAlchemy
+simplejson
+spyne 
